@@ -1,0 +1,142 @@
+{
+    "versionLabel": “6.1.2”,
+    "uuid": "6c54c27b-28d5-4611-9768-3984f75b5190",
+    "appKeys": {
+        "invert": 1,
+        "vibeminutes": 3
+    },
+    "longName": "Big Nexa",
+    "versionCode": 6,
+    "capabilities": [
+        "configurable"
+    ],
+    "shortName": "Big Nexa",
+    "companyName": "Oliver Bowe",
+    "watchapp": {
+        "watchface": true
+    },
+    "media": [
+
+	{
+        "type": "png",
+        "defName": "IMAGE_MENU_ICON",
+        "file": "images/menu_icon_big_watch.png"
+	},
+
+
+        {
+        "type": "png",
+        "defName": "IMAGE_NUM_BLACK_0",
+        "file": "images/num_black_0.png"
+        },
+
+        {
+        "type": "png",
+        "defName": "IMAGE_NUM_BLACK_1",
+        "file": "images/num_black_1.png"
+        },
+
+        {
+        "type": "png",
+        "defName": "IMAGE_NUM_BLACK_2",
+        "file": "images/num_black_2.png"
+        },
+
+        {
+        "type": "png",
+        "defName": "IMAGE_NUM_BLACK_3",
+        "file": "images/num_black_3.png"
+        },
+
+        {
+        "type": "png",
+        "defName": "IMAGE_NUM_BLACK_4",
+        "file": "images/num_black_4.png"
+        },
+
+        {
+        "type": "png",
+        "defName": "IMAGE_NUM_BLACK_5",
+        "file": "images/num_black_5.png"
+        },
+
+        {
+        "type": "png",
+        "defName": "IMAGE_NUM_BLACK_6",
+        "file": "images/num_black_6.png"
+        },
+
+        {
+        "type": "png",
+        "defName": "IMAGE_NUM_BLACK_7",
+        "file": "images/num_black_7.png"
+        },
+
+        {
+        "type": "png",
+        "defName": "IMAGE_NUM_BLACK_8",
+        "file": "images/num_black_8.png"
+        },
+
+        {
+        "type": "png",
+        "defName": "IMAGE_NUM_BLACK_9",
+        "file": "images/num_black_9.png"
+        }
+        {
+        "type": "png",
+        "defName": "IMAGE_NUM_WHITE_1",
+        "file": "images/num_white_1.png"
+        },
+
+        {
+        "type": "png",
+        "defName": "IMAGE_NUM_WHITE_2",
+        "file": "images/num_white_2.png"
+        },
+
+        {
+        "type": "png",
+        "defName": "IMAGE_NUM_WHITE_3",
+        "file": "images/num_white_3.png"
+        },
+
+        {
+        "type": "png",
+        "defName": "IMAGE_NUM_WHITE_4",
+        "file": "images/num_white_4.png"
+        },
+
+        {
+        "type": "png",
+        "defName": "IMAGE_NUM_WHITE_5",
+        "file": "images/num_white_5.png"
+        },
+
+        {
+        "type": "png",
+        "defName": "IMAGE_NUM_WHITE_6",
+        "file": "images/num_white_6.png"
+        },
+
+        {
+        "type": "png",
+        "defName": "IMAGE_NUM_WHITE_7",
+        "file": "images/num_white_7.png"
+        },
+
+        {
+        "type": "png",
+        "defName": "IMAGE_NUM_WHITE_8",
+        "file": "images/num_white_8.png"
+        },
+
+        {
+        "type": "png",
+        "defName": "IMAGE_NUM_WHITE_9",
+        "file": "images/num_white_9.png"
+        }
+
+    ]
+}
+
